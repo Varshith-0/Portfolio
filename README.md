@@ -13,5 +13,5 @@
 <b>JavaScript</b>: Used for adding interactivity and dynamic features to the website, such as navigation menus and form validation.</blockquote>
                   <h3>File Structure</h3>
 									<blockquote><b>index.html</b>: Main HTML file containing the structure of the website.<br>
-<b>styles.css</b>: Directory containing CSS files for styling.<br>
-<b>scripts.js</b>: Directory containing JavaScript files for interactivity.<br></blockquote>
+<b>styles.css</b>: File containing CSS for styling.<br>
+<b>scripts.js</b>: File containing JavaScript for interactivity.<br></blockquote>
