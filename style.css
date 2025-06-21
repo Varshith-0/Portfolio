@@ -204,6 +204,19 @@ article {
 article {
     display: none;
 }
+.quote {
+  font-size: 0.9rem;
+  font-style: italic;
+  color: #ccc; /* or whatever fits your theme */
+  line-height: 1.4;
+  margin-top: 6px;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  white-space: normal;
+  text-align: center;
+  padding: 0 10px;
+}
+
 
 article.active {
     display: block;
