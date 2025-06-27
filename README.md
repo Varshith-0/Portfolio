@@ -6,7 +6,7 @@
 <b>Project Showcase</b>: Displays a collection of my projects, complete with descriptions, images, and links to live demos or repositories.<br>
 <b>Skills Section</b>: Highlights my skills and expertise in various technologies, tools, and programming languages.<br>
 <b>About Me</b>: Provides a brief overview of myself, my background, and my interests.<br>
-<b>Contact Information</b>: Includes ways to get in touch with me, such as email, social media profiles, or a contact form. </blockquote>
+<b>Contact Information</b>: Includes ways to get in touch with me, such as email, social media profiles. </blockquote>
 									<h3>Technologies Used</h3>
 									<blockquote><b>HTML</b>: Used for structuring the web pages and content.<br>
 <b>CSS</b>: Employed for styling and design, including layout, colors, fonts, and animations.<br>
